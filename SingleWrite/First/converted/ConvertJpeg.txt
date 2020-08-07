@@ -1,0 +1,1 @@
+convert image.jpg -compress none image.ppm
