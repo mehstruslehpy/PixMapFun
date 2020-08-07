@@ -1,3 +1,5 @@
 *.ppm
 *.gif
 *.jpg
+*.tar.gz
+Images/
