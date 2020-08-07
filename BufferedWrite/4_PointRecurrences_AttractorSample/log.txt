@@ -1,0 +1,6 @@
+DEBUG: Program start.
+DEBUG: White out frame buffer.
+DEBUG: Build pt array.
+DEBUG: Write pt array to frame buffer.
+Plot out of bounds.
+DEBUG: Write frame buffer to disk.

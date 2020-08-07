@@ -1,0 +1,2004 @@
+DEBUG: Program start.
+DEBUG: White out frame buffer.
+DEBUG: Build pt array.
+received pt  {.x=0.838686, .y=0.888336, .z=-0.322833}
+received pt  {.x=0.775116, .y=0.871361, .z=-0.482696}
+received pt  {.x=0.709860, .y=0.849219, .z=-0.639038}
+received pt  {.x=0.643494, .y=0.822207, .z=-0.787187}
+received pt  {.x=0.576586, .y=0.790763, .z=-0.922802}
+received pt  {.x=0.509672, .y=0.755446, .z=-1.042141}
+received pt  {.x=0.443242, .y=0.716909, .z=-1.142276}
+received pt  {.x=0.377726, .y=0.675861, .z=-1.221237}
+received pt  {.x=0.313483, .y=0.633042, .z=-1.278062}
+received pt  {.x=0.250793, .y=0.589182, .z=-1.312769}
+received pt  {.x=0.189861, .y=0.544982, .z=-1.326255}
+received pt  {.x=0.130809, .y=0.501083, .z=-1.320143}
+received pt  {.x=0.073686, .y=0.458051, .z=-1.296595}
+received pt  {.x=0.018472, .y=0.416369, .z=-1.258125}
+received pt  {.x=-0.034917, .y=0.376431, .z=-1.207414}
+received pt  {.x=-0.086616, .y=0.338541, .z=-1.147153}
+received pt  {.x=-0.136808, .y=0.302918, .z=-1.079919}
+received pt  {.x=-0.185710, .y=0.269704, .z=-1.008076}
+received pt  {.x=-0.233573, .y=0.238974, .z=-0.933720}
+received pt  {.x=-0.280669, .y=0.210743, .z=-0.858647}
+received pt  {.x=-0.327288, .y=0.184978, .z=-0.784343}
+received pt  {.x=-0.373732, .y=0.161610, .z=-0.711997}
+received pt  {.x=-0.420314, .y=0.140539, .z=-0.642522}
+received pt  {.x=-0.467351, .y=0.121645, .z=-0.576583}
+received pt  {.x=-0.515167, .y=0.104794, .z=-0.514638}
+received pt  {.x=-0.564086, .y=0.089841, .z=-0.456961}
+received pt  {.x=-0.614437, .y=0.076641, .z=-0.403685}
+received pt  {.x=-0.666550, .y=0.065046, .z=-0.354825}
+received pt  {.x=-0.720758, .y=0.054913, .z=-0.310309}
+received pt  {.x=-0.777398, .y=0.046103, .z=-0.269996}
+received pt  {.x=-0.836809, .y=0.038482, .z=-0.233698}
+received pt  {.x=-0.899339, .y=0.031926, .z=-0.201196}
+received pt  {.x=-0.965341, .y=0.026317, .z=-0.172250}
+received pt  {.x=-1.035179, .y=0.021547, .z=-0.146609}
+received pt  {.x=-1.109223, .y=0.017515, .z=-0.124020}
+received pt  {.x=-1.187861, .y=0.014129, .z=-0.104230}
+received pt  {.x=-1.271492, .y=0.011306, .z=-0.086994}
+received pt  {.x=-1.360533, .y=0.008969, .z=-0.072074}
+received pt  {.x=-1.455419, .y=0.007050, .z=-0.059243}
+received pt  {.x=-1.556605, .y=0.005488, .z=-0.048287}
+received pt  {.x=-1.664573, .y=0.004227, .z=-0.039002}
+received pt  {.x=-1.779826, .y=0.003220, .z=-0.031197}
+received pt  {.x=-1.902901, .y=0.002424, .z=-0.024694}
+received pt  {.x=-2.034361, .y=0.001801, .z=-0.019329}
+received pt  {.x=-2.174808, .y=0.001321, .z=-0.014947}
+received pt  {.x=-2.324878, .y=0.000954, .z=-0.011409}
+received pt  {.x=-2.485248, .y=0.000679, .z=-0.008588}
+received pt  {.x=-2.656640, .y=0.000475, .z=-0.006368}
+received pt  {.x=-2.839822, .y=0.000327, .z=-0.004647}
+received pt  {.x=-3.035614, .y=0.000220, .z=-0.003332}
+received pt  {.x=-3.244890, .y=0.000146, .z=-0.002345}
+received pt  {.x=-3.468583, .y=0.000094, .z=-0.001618}
+received pt  {.x=-3.707690, .y=0.000060, .z=-0.001093}
+received pt  {.x=-3.963275, .y=0.000037, .z=-0.000721}
+received pt  {.x=-4.236475, .y=0.000022, .z=-0.000464}
+received pt  {.x=-4.528506, .y=0.000013, .z=-0.000291}
+received pt  {.x=-4.840666, .y=0.000007, .z=-0.000177}
+received pt  {.x=-5.174344, .y=0.000004, .z=-0.000105}
+received pt  {.x=-5.531022, .y=0.000002, .z=-0.000060}
+received pt  {.x=-5.912286, .y=0.000001, .z=-0.000033}
+received pt  {.x=-6.319832, .y=0.000001, .z=-0.000018}
+received pt  {.x=-6.755470, .y=0.000000, .z=-0.000009}
+received pt  {.x=-7.221138, .y=0.000000, .z=-0.000004}
+received pt  {.x=-7.718905, .y=0.000000, .z=-0.000002}
+received pt  {.x=-8.250985, .y=0.000000, .z=-0.000001}
+received pt  {.x=-8.819741, .y=0.000000, .z=-0.000000}
+received pt  {.x=-9.427703, .y=0.000000, .z=-0.000000}
+received pt  {.x=-10.077574, .y=0.000000, .z=-0.000000}
+received pt  {.x=-10.772241, .y=0.000000, .z=-0.000000}
+received pt  {.x=-11.514792, .y=0.000000, .z=-0.000000}
+received pt  {.x=-12.308530, .y=0.000000, .z=-0.000000}
+received pt  {.x=-13.156981, .y=0.000000, .z=-0.000000}
+received pt  {.x=-14.063917, .y=0.000000, .z=-0.000000}
+received pt  {.x=-15.033371, .y=0.000000, .z=-0.000000}
+received pt  {.x=-16.069651, .y=0.000000, .z=-0.000000}
+received pt  {.x=-17.177363, .y=0.000000, .z=-0.000000}
+received pt  {.x=-18.361433, .y=0.000000, .z=-0.000000}
+received pt  {.x=-19.627122, .y=0.000000, .z=-0.000000}
+received pt  {.x=-20.980059, .y=0.000000, .z=-0.000000}
+received pt  {.x=-22.426255, .y=0.000000, .z=-0.000000}
+received pt  {.x=-23.972141, .y=0.000000, .z=-0.000000}
+received pt  {.x=-25.624588, .y=0.000000, .z=-0.000000}
+received pt  {.x=-27.390942, .y=0.000000, .z=-0.000000}
+received pt  {.x=-29.279053, .y=0.000000, .z=-0.000000}
+received pt  {.x=-31.297316, .y=0.000000, .z=0.000000}
+received pt  {.x=-33.454701, .y=0.000000, .z=0.000000}
+received pt  {.x=-35.760800, .y=0.000000, .z=0.000000}
+received pt  {.x=-38.225862, .y=0.000000, .z=0.000000}
+received pt  {.x=-40.860846, .y=0.000000, .z=0.000000}
+received pt  {.x=-43.677465, .y=0.000000, .z=0.000000}
+received pt  {.x=-46.688238, .y=0.000000, .z=0.000000}
+received pt  {.x=-49.906550, .y=0.000000, .z=0.000000}
+received pt  {.x=-53.346707, .y=0.000000, .z=0.000000}
+received pt  {.x=-57.024001, .y=0.000000, .z=0.000000}
+received pt  {.x=-60.954777, .y=0.000001, .z=0.000006}
+received pt  {.x=-65.156509, .y=0.000046, .z=0.000228}
+received pt  {.x=-69.647830, .y=0.002525, .z=0.011386}
+received pt  {.x=-74.445604, .y=0.186495, .z=0.754865}
+received pt  {.x=-79.281757, .y=18.457467, .z=66.521570}
+received pt  {.x=-50.107988, .y=3425.299434, .z=7881.660969}
+received pt  {.x=-54852.411866, .y=-402652075.293260, .z=2820451.216940}
+received pt  {.x=241790813306022277448466432.000000, .y=35749075917579717763621153982705003692818432.000000, .z=59140523810333491200.000000}
+received pt  {.x=-3297284805218306583832641732569555813566663872020773976767531524821086902183681434517015495759325297493590280963447367049440291400652590018555396762560568223354850023997177856.000000, .y=16981020635787809207989500766497087849130846413050081732069519204596024966360820291867134571660925183752143744467240977279784462827018763166523053337961145466325958967428786034926153224835907655857984796177749822491178582482991689881746326801654765401315517492021314199854933136637952.000000, .z=-2060000471771625238983664358066031180493128644231105531591088250825107744765427871245039901400976725756709175296.000000}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+received pt  {.x=-nan, .y=-nan, .z=-nan}
+DEBUG: Write pt array to frame buffer.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+Plot out of bounds.
+DEBUG: Write frame buffer to disk.

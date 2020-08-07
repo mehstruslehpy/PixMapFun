@@ -1,0 +1,7 @@
+- add transpose functions
+- simulate dot and cross product functions via matrix arithmetic
+- simulate normalizing via simulated dot product
+- one by one to scalar?
+- add a ton of matrix transformation generating functions
+- add coversion functions for matrices and tuples
+- projection

@@ -1,0 +1,6 @@
+all: main 
+main: conv.c 
+	gcc -g -Wall -pedantic -fno-stack-protector -lm conv.c -o main
+	./main GrumpyCat.ppm NiceDog.ppm shadowed.ppm shadowed1
+	viewnior shadowed.ppm
+	#rm main
